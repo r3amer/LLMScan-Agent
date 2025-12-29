@@ -1,0 +1,6 @@
+tmp/
+.env*
+*.json
+__pycache__
+test*
+config*
